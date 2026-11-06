@@ -1,3 +1,354 @@
-{
-  "_todo": "Replace with mock packages from the project Markdown file."
-}
+[
+ {
+  "id": "pkg_royal_essentials",
+  "tenantId": "t_royal",
+  "serviceId": "svc_royal_wedding",
+  "name": "Royal Essentials",
+  "description": "One-day coverage for intimate weddings.",
+  "price": 150000,
+  "durationHours": 8,
+  "photographerCount": 2,
+  "deliverables": [
+   "400+ edited photographs",
+   "Online gallery + Google Drive delivery",
+   "Next-day highlights (30 photos)"
+  ],
+  "features": [
+   "Candid & traditional coverage",
+   "Pre-event consultation",
+   "1 day coverage"
+  ],
+  "popular": false,
+  "status": "active",
+  "sortOrder": 1
+ },
+ {
+  "id": "pkg_royal_signature",
+  "tenantId": "t_royal",
+  "serviceId": "svc_royal_wedding",
+  "name": "Royal Signature",
+  "description": "Our most booked wedding experience — photo, film and album.",
+  "price": 275000,
+  "durationHours": 12,
+  "photographerCount": 3,
+  "deliverables": [
+   "800+ edited photographs",
+   "Premium 40-page album",
+   "Cinematic 4-minute highlight film",
+   "Next-day highlights (50 photos)"
+  ],
+  "features": [
+   "Two-ceremony coverage",
+   "Drone coverage",
+   "Dedicated project manager",
+   "Complimentary engagement mini-shoot"
+  ],
+  "popular": true,
+  "status": "active",
+  "sortOrder": 2
+ },
+ {
+  "id": "pkg_royal_heritage",
+  "tenantId": "t_royal",
+  "serviceId": "svc_royal_wedding",
+  "name": "Royal Heritage",
+  "description": "Multi-day palace wedding coverage with a full film unit.",
+  "price": 450000,
+  "durationHours": 36,
+  "photographerCount": 5,
+  "deliverables": [
+   "1500+ edited photographs",
+   "2 premium albums + 2 parent albums",
+   "Full wedding film (20 min)",
+   "Same-night teaser reel"
+  ],
+  "features": [
+   "3-day coverage (mehndi, sangeet, wedding)",
+   "Drone & crane shots",
+   "Dedicated editing team",
+   "Destination travel included within Rajasthan"
+  ],
+  "popular": false,
+  "status": "active",
+  "sortOrder": 3
+ },
+ {
+  "id": "pkg_royal_prewed",
+  "tenantId": "t_royal",
+  "serviceId": "svc_royal_pre-wedding",
+  "name": "Pre-Wedding Story",
+  "description": "A half-day location shoot designed around your story.",
+  "price": 55000,
+  "durationHours": 6,
+  "photographerCount": 2,
+  "deliverables": [
+   "60 edited photographs",
+   "Cinematic reel (60 sec)",
+   "Private online gallery"
+  ],
+  "features": [
+   "Location scouting",
+   "Outfit & styling guide",
+   "Golden-hour scheduling"
+  ],
+  "popular": false,
+  "status": "active",
+  "sortOrder": 4
+ },
+ {
+  "id": "pkg_royal_engage",
+  "tenantId": "t_royal",
+  "serviceId": "svc_royal_engagement",
+  "name": "Engagement Glow",
+  "description": "Ring ceremony coverage with portraits.",
+  "price": 38000,
+  "durationHours": 4,
+  "photographerCount": 2,
+  "deliverables": [
+   "150 edited photographs",
+   "Online gallery",
+   "Next-day highlights (20 photos)"
+  ],
+  "features": [
+   "Ring ceremony coverage",
+   "Family portraits",
+   "Candid couple moments"
+  ],
+  "popular": false,
+  "status": "active",
+  "sortOrder": 5
+ },
+ {
+  "id": "pkg_royal_celebrate",
+  "tenantId": "t_royal",
+  "serviceId": "svc_royal_birthday",
+  "name": "Celebration Day",
+  "description": "Birthdays and family milestones.",
+  "price": 22000,
+  "durationHours": 4,
+  "photographerCount": 1,
+  "deliverables": [
+   "100 edited photographs",
+   "Next-day highlights (15 photos)"
+  ],
+  "features": [
+   "Candid coverage",
+   "Cake cutting & family portraits"
+  ],
+  "popular": false,
+  "status": "active",
+  "sortOrder": 6
+ },
+ {
+  "id": "pkg_dream_candid",
+  "tenantId": "t_dream",
+  "serviceId": "svc_dream_wedding",
+  "name": "Dream Candid",
+  "description": "Ten hours of relaxed, candid wedding coverage.",
+  "price": 180000,
+  "durationHours": 10,
+  "photographerCount": 2,
+  "deliverables": [
+   "600+ edited photographs",
+   "30-page album",
+   "Next-day highlights (40 photos)"
+  ],
+  "features": [
+   "Candid-first approach",
+   "Pre-wedding consultation"
+  ],
+  "popular": false,
+  "status": "active",
+  "sortOrder": 1
+ },
+ {
+  "id": "pkg_dream_luxe",
+  "tenantId": "t_dream",
+  "serviceId": "svc_dream_wedding",
+  "name": "Dream Luxe",
+  "description": "Photo + film wedding experience with drone.",
+  "price": 320000,
+  "durationHours": 14,
+  "photographerCount": 3,
+  "deliverables": [
+   "1000+ edited photographs",
+   "Luxe album + parents albums",
+   "5-minute highlight film",
+   "Next-day highlights (60 photos)"
+  ],
+  "features": [
+   "Drone coverage",
+   "Dedicated editor",
+   "Sneak-peek reel in 48h"
+  ],
+  "popular": true,
+  "status": "active",
+  "sortOrder": 2
+ },
+ {
+  "id": "pkg_dream_lovestory",
+  "tenantId": "t_dream",
+  "serviceId": "svc_dream_pre-wedding",
+  "name": "Love Story Shoot",
+  "description": "A relaxed 5-hour couple shoot around Mumbai.",
+  "price": 48000,
+  "durationHours": 5,
+  "photographerCount": 2,
+  "deliverables": [
+   "50 edited photographs",
+   "Highlight reel",
+   "Next-day highlights"
+  ],
+  "features": [
+   "Marine Drive / Bandra / Alibaug locations",
+   "Styling guide"
+  ],
+  "popular": false,
+  "status": "active",
+  "sortOrder": 3
+ },
+ {
+  "id": "pkg_dream_little",
+  "tenantId": "t_dream",
+  "serviceId": "svc_dream_birthday",
+  "name": "Little Dreams Birthday",
+  "description": "Playful kids’ birthday coverage.",
+  "price": 18000,
+  "durationHours": 3,
+  "photographerCount": 1,
+  "deliverables": [
+   "80 edited photographs",
+   "Online gallery"
+  ],
+  "features": [
+   "Candid party coverage",
+   "Family portraits"
+  ],
+  "popular": false,
+  "status": "active",
+  "sortOrder": 4
+ },
+ {
+  "id": "pkg_pixel_headshots",
+  "tenantId": "t_pixel",
+  "serviceId": "svc_pixel_corporate",
+  "name": "Team Headshots",
+  "description": "On-site team headshots, up to 25 people.",
+  "price": 15000,
+  "durationHours": 3,
+  "photographerCount": 1,
+  "deliverables": [
+   "25 retouched headshots",
+   "48h delivery"
+  ],
+  "features": [
+   "Portable studio setup",
+   "Consistent backdrops"
+  ],
+  "popular": false,
+  "status": "active",
+  "sortOrder": 1
+ },
+ {
+  "id": "pkg_pixel_catalog",
+  "tenantId": "t_pixel",
+  "serviceId": "svc_pixel_product",
+  "name": "Catalogue Pack",
+  "description": "50 marketplace-ready packshots.",
+  "price": 35000,
+  "durationHours": 6,
+  "photographerCount": 1,
+  "deliverables": [
+   "50 retouched packshots",
+   "White background + lifestyle"
+  ],
+  "features": [
+   "Amazon/Flipkart compliant",
+   "Colour-matched"
+  ],
+  "popular": true,
+  "status": "active",
+  "sortOrder": 2
+ },
+ {
+  "id": "pkg_pixel_lookbook",
+  "tenantId": "t_pixel",
+  "serviceId": "svc_pixel_fashion",
+  "name": "Lookbook Day",
+  "description": "Full-day lookbook shoot with two photographers.",
+  "price": 60000,
+  "durationHours": 8,
+  "photographerCount": 2,
+  "deliverables": [
+   "60 edited looks",
+   "Social cut-downs"
+  ],
+  "features": [
+   "Studio + location",
+   "Stylist coordination"
+  ],
+  "popular": false,
+  "status": "active",
+  "sortOrder": 3
+ },
+ {
+  "id": "pkg_creative_portrait",
+  "tenantId": "t_creative",
+  "serviceId": "svc_creative_portrait",
+  "name": "Signature Portrait",
+  "description": "A 90-minute portrait session.",
+  "price": 249,
+  "durationHours": 2,
+  "photographerCount": 1,
+  "deliverables": [
+   "20 retouched images"
+  ],
+  "features": [
+   "Studio or outdoors"
+  ],
+  "popular": false,
+  "status": "active",
+  "sortOrder": 1
+ },
+ {
+  "id": "pkg_creative_editorial",
+  "tenantId": "t_creative",
+  "serviceId": "svc_creative_fashion",
+  "name": "Editorial Day",
+  "description": "Half-day editorial with creative direction.",
+  "price": 890,
+  "durationHours": 5,
+  "photographerCount": 2,
+  "deliverables": [
+   "40 retouched images",
+   "Usage licence"
+  ],
+  "features": [
+   "Creative direction",
+   "Hair & makeup coordination"
+  ],
+  "popular": true,
+  "status": "active",
+  "sortOrder": 2
+ },
+ {
+  "id": "pkg_creative_couples",
+  "tenantId": "t_creative",
+  "serviceId": "svc_creative_pre-wedding",
+  "name": "Couples Session",
+  "description": "Relaxed golden-hour couples session.",
+  "price": 520,
+  "durationHours": 2,
+  "photographerCount": 1,
+  "deliverables": [
+   "35 edited images"
+  ],
+  "features": [
+   "Two locations",
+   "Outfit change"
+  ],
+  "popular": false,
+  "status": "active",
+  "sortOrder": 3
+ }
+]

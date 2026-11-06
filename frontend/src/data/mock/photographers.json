@@ -1,3 +1,558 @@
-{
-  "_todo": "Replace with mock photographers from the project Markdown file."
-}
+[
+ {
+  "id": "ph_royal_1",
+  "tenantId": "t_royal",
+  "userId": "u_ph_royal_1",
+  "slug": "aarav-mehta",
+  "rating": 4.9,
+  "status": "active",
+  "featured": true,
+  "equipment": [
+   "Sony A1",
+   "35mm f/1.4 GM",
+   "85mm f/1.2 GM"
+  ],
+  "createdAt": "2026-01-10T10:00:00.000Z",
+  "availability": {
+   "weekdays": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    0
+   ],
+   "blockedDates": [
+    "2026-11-27",
+    "2026-11-28"
+   ],
+   "note": "Booked for the Kapoor wedding on 27 Nov."
+  },
+  "name": "Aarav Mehta",
+  "title": "Lead Wedding Photographer",
+  "bio": "Twelve years of photographing palace weddings across Rajasthan. Aarav leads our candid storytelling team and edits every hero frame himself.",
+  "email": "aarav@royal.demo",
+  "phone": "+91 98290 22201",
+  "experienceYears": 12,
+  "specialties": [
+   "wedding",
+   "pre-wedding",
+   "engagement"
+  ],
+  "skills": [
+   "Candid storytelling",
+   "Cinematic lighting",
+   "Drone",
+   "Lightroom grading"
+  ],
+  "portfolio": [
+   "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1537633552985-df8429e8048b?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?auto=format&fit=crop&w=900&q=70"
+  ],
+  "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=70"
+ },
+ {
+  "id": "ph_royal_2",
+  "tenantId": "t_royal",
+  "userId": "u_ph_royal_2",
+  "slug": "simran-kaur",
+  "rating": 4.8,
+  "status": "active",
+  "featured": true,
+  "equipment": [
+   "Canon EOS R5",
+   "50mm f/1.2 L",
+   "70-200mm f/2.8"
+  ],
+  "createdAt": "2026-01-10T10:00:00.000Z",
+  "availability": {
+   "weekdays": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "blockedDates": [],
+   "note": "Prefers sunrise and golden-hour slots."
+  },
+  "name": "Simran Kaur",
+  "title": "Portrait & Pre-Wedding Specialist",
+  "bio": "Simran designs pre-wedding shoots around place and light — forts, stepwells and desert dunes — and makes shy couples feel at ease.",
+  "email": "simran@royal.demo",
+  "phone": "+91 98290 22202",
+  "experienceYears": 8,
+  "specialties": [
+   "pre-wedding",
+   "portrait",
+   "engagement",
+   "fashion"
+  ],
+  "skills": [
+   "Couple direction",
+   "Natural light",
+   "Styling",
+   "Film emulation"
+  ],
+  "portfolio": [
+   "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?auto=format&fit=crop&w=900&q=70"
+  ],
+  "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=300&q=70"
+ },
+ {
+  "id": "ph_royal_3",
+  "tenantId": "t_royal",
+  "userId": null,
+  "slug": "rohan-verma",
+  "rating": 4.7,
+  "status": "active",
+  "featured": true,
+  "equipment": [
+   "Nikon Z8",
+   "24-70mm f/2.8",
+   "Godox AD200"
+  ],
+  "createdAt": "2026-01-10T10:00:00.000Z",
+  "availability": {
+   "weekdays": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "blockedDates": [],
+   "note": "Weekday corporate coverage; weekends by request."
+  },
+  "name": "Rohan Verma",
+  "title": "Event & Corporate Photographer",
+  "bio": "Rohan covers conferences, dealer meets, sangeets and celebrations with a documentary eye and a fast turnaround.",
+  "email": "rohan@royal.demo",
+  "phone": "+91 98290 22203",
+  "experienceYears": 6,
+  "specialties": [
+   "event",
+   "corporate",
+   "birthday"
+  ],
+  "skills": [
+   "Event coverage",
+   "Flash photography",
+   "Headshots",
+   "Quick turnaround"
+  ],
+  "portfolio": [
+   "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1505236858219-8359eb29e329?auto=format&fit=crop&w=900&q=70"
+  ],
+  "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=70"
+ },
+ {
+  "id": "ph_royal_4",
+  "tenantId": "t_royal",
+  "userId": null,
+  "slug": "isha-rathore",
+  "rating": 4.8,
+  "status": "on_leave",
+  "featured": false,
+  "equipment": [
+   "Sony A7R V",
+   "24-105mm f/4"
+  ],
+  "createdAt": "2026-01-10T10:00:00.000Z",
+  "availability": {
+   "weekdays": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "blockedDates": [
+    "2026-11-06",
+    "2026-11-07",
+    "2026-11-08",
+    "2026-11-09",
+    "2026-11-10",
+    "2026-11-11",
+    "2026-11-12",
+    "2026-11-13",
+    "2026-11-14",
+    "2026-11-15",
+    "2026-11-16",
+    "2026-11-17",
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20"
+   ],
+   "note": "On leave until 20 November."
+  },
+  "name": "Isha Rathore",
+  "title": "Traditional & Candid Photographer",
+  "bio": "Isha specialises in ritual-rich ceremonies and family portraits, and mentors our junior team.",
+  "email": "isha@royal.demo",
+  "phone": "+91 98290 22204",
+  "experienceYears": 9,
+  "specialties": [
+   "wedding",
+   "event"
+  ],
+  "skills": [
+   "Ritual coverage",
+   "Family portraits",
+   "Team lead"
+  ],
+  "portfolio": [
+   "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1537633552985-df8429e8048b?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?auto=format&fit=crop&w=900&q=70"
+  ],
+  "avatarUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=300&q=70"
+ },
+ {
+  "id": "ph_dream_1",
+  "tenantId": "t_dream",
+  "userId": "u_ph_dream_1",
+  "slug": "ananya-desai",
+  "rating": 4.9,
+  "status": "active",
+  "featured": true,
+  "equipment": [
+   "Canon EOS R6 II",
+   "85mm f/1.4"
+  ],
+  "createdAt": "2026-01-10T10:00:00.000Z",
+  "availability": {
+   "weekdays": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "blockedDates": [],
+   "note": ""
+  },
+  "name": "Ananya Desai",
+  "title": "Portrait & Family Photographer",
+  "bio": "Ananya brings warmth and humour to every session — from newborns to golden anniversaries.",
+  "email": "ananya@dream.demo",
+  "phone": "+91 98200 66601",
+  "experienceYears": 7,
+  "specialties": [
+   "portrait",
+   "birthday",
+   "pre-wedding"
+  ],
+  "skills": [
+   "Kids & family",
+   "Window light",
+   "Gentle posing"
+  ],
+  "portfolio": [
+   "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=900&q=70"
+  ],
+  "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=70"
+ },
+ {
+  "id": "ph_dream_2",
+  "tenantId": "t_dream",
+  "userId": null,
+  "slug": "kabir-anand",
+  "rating": 4.9,
+  "status": "active",
+  "featured": true,
+  "equipment": [
+   "Sony A1",
+   "35mm f/1.4",
+   "24-70mm f/2.8"
+  ],
+  "createdAt": "2026-01-10T10:00:00.000Z",
+  "availability": {
+   "weekdays": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "blockedDates": [],
+   "note": ""
+  },
+  "name": "Kabir Anand",
+  "title": "Founder & Lead Candid Photographer",
+  "bio": "A former photojournalist, Kabir shoots weddings the way he reported stories — unobtrusively and honestly.",
+  "email": "kabir@dream.demo",
+  "phone": "+91 98200 55501",
+  "experienceYears": 14,
+  "specialties": [
+   "wedding",
+   "pre-wedding",
+   "engagement"
+  ],
+  "skills": [
+   "Photojournalism",
+   "Low-light",
+   "Storytelling"
+  ],
+  "portfolio": [
+   "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1537633552985-df8429e8048b?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?auto=format&fit=crop&w=900&q=70"
+  ],
+  "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=300&q=70"
+ },
+ {
+  "id": "ph_dream_3",
+  "tenantId": "t_dream",
+  "userId": null,
+  "slug": "dev-patel",
+  "rating": 4.7,
+  "status": "active",
+  "featured": true,
+  "equipment": [
+   "Sony FX3",
+   "DJI Mavic 3"
+  ],
+  "createdAt": "2026-01-10T10:00:00.000Z",
+  "availability": {
+   "weekdays": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "blockedDates": [],
+   "note": ""
+  },
+  "name": "Dev Patel",
+  "title": "Event & Cinematic Videographer",
+  "bio": "Dev handles event coverage, drone work and our highlight films.",
+  "email": "dev@dream.demo",
+  "phone": "+91 98200 66603",
+  "experienceYears": 5,
+  "specialties": [
+   "event",
+   "wedding"
+  ],
+  "skills": [
+   "Drone",
+   "Colour grading",
+   "Highlight films"
+  ],
+  "portfolio": [
+   "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1505236858219-8359eb29e329?auto=format&fit=crop&w=900&q=70"
+  ],
+  "avatarUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&q=70"
+ },
+ {
+  "id": "ph_pixel_1",
+  "tenantId": "t_pixel",
+  "userId": null,
+  "slug": "nikhil-joshi",
+  "rating": 4.8,
+  "status": "active",
+  "featured": true,
+  "equipment": [
+   "Nikon Z7 II",
+   "105mm macro"
+  ],
+  "createdAt": "2026-01-10T10:00:00.000Z",
+  "availability": {
+   "weekdays": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "blockedDates": [],
+   "note": ""
+  },
+  "name": "Nikhil Joshi",
+  "title": "Product & Corporate Photographer",
+  "bio": "Nikhil runs the studio and shoots catalogue, packshot and corporate work.",
+  "email": "nikhil@pixel.demo",
+  "phone": "+91 98220 33344",
+  "experienceYears": 10,
+  "specialties": [
+   "product",
+   "corporate"
+  ],
+  "skills": [
+   "Packshots",
+   "Strobe lighting",
+   "Retouching"
+  ],
+  "portfolio": [
+   "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=900&q=70"
+  ],
+  "avatarUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&q=70"
+ },
+ {
+  "id": "ph_pixel_2",
+  "tenantId": "t_pixel",
+  "userId": null,
+  "slug": "sneha-kulkarni",
+  "rating": 4.7,
+  "status": "active",
+  "featured": true,
+  "equipment": [
+   "Canon EOS R5",
+   "85mm f/1.2"
+  ],
+  "createdAt": "2026-01-10T10:00:00.000Z",
+  "availability": {
+   "weekdays": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "blockedDates": [],
+   "note": ""
+  },
+  "name": "Sneha Kulkarni",
+  "title": "Fashion & Portrait Photographer",
+  "bio": "Sneha shoots lookbooks and founder portraits with a clean editorial finish.",
+  "email": "sneha@pixel.demo",
+  "phone": "+91 98220 33355",
+  "experienceYears": 6,
+  "specialties": [
+   "fashion",
+   "portrait"
+  ],
+  "skills": [
+   "Lookbooks",
+   "Studio lighting"
+  ],
+  "portfolio": [
+   "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=900&q=70"
+  ],
+  "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=70"
+ },
+ {
+  "id": "ph_creative_1",
+  "tenantId": "t_creative",
+  "userId": null,
+  "slug": "jordan-lee",
+  "rating": 4.9,
+  "status": "active",
+  "featured": true,
+  "equipment": [
+   "Sony A7R V"
+  ],
+  "createdAt": "2026-01-10T10:00:00.000Z",
+  "availability": {
+   "weekdays": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "blockedDates": [],
+   "note": ""
+  },
+  "name": "Jordan Lee",
+  "title": "Founder & Editorial Photographer",
+  "bio": "Jordan blends fashion-world polish with portrait warmth.",
+  "email": "jordan@creative.demo",
+  "phone": "+1 512 555 0142",
+  "experienceYears": 11,
+  "specialties": [
+   "fashion",
+   "portrait"
+  ],
+  "skills": [
+   "Editorial",
+   "Studio strobes"
+  ],
+  "portfolio": [
+   "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=900&q=70"
+  ],
+  "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=70"
+ },
+ {
+  "id": "ph_creative_2",
+  "tenantId": "t_creative",
+  "userId": null,
+  "slug": "maya-torres",
+  "rating": 4.8,
+  "status": "active",
+  "featured": true,
+  "equipment": [
+   "Canon EOS R6"
+  ],
+  "createdAt": "2026-01-10T10:00:00.000Z",
+  "availability": {
+   "weekdays": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "blockedDates": [],
+   "note": ""
+  },
+  "name": "Maya Torres",
+  "title": "Couples & Engagement Photographer",
+  "bio": "Maya photographs couples with a relaxed, playful approach.",
+  "email": "maya@creative.demo",
+  "phone": "+1 512 555 0177",
+  "experienceYears": 6,
+  "specialties": [
+   "pre-wedding",
+   "engagement",
+   "portrait"
+  ],
+  "skills": [
+   "Couples",
+   "Golden hour"
+  ],
+  "portfolio": [
+   "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&w=900&q=70",
+   "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?auto=format&fit=crop&w=900&q=70"
+  ],
+  "avatarUrl": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=300&q=70"
+ }
+]

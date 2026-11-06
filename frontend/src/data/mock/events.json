@@ -1,3 +1,505 @@
-{
-  "_todo": "Replace with mock events from the project Markdown file."
-}
+[
+ {
+  "id": "ev_royal_1",
+  "tenantId": "t_royal",
+  "bookingId": "bk_royal_2",
+  "clientId": "cl_royal_1",
+  "title": "Meera & Kabir — Engagement Ceremony",
+  "type": "engagement",
+  "date": "2026-09-05",
+  "startTime": "17:00",
+  "venue": "The Leela Palace",
+  "city": "Udaipur",
+  "description": "An intimate lakeside ring ceremony with 120 guests.",
+  "status": "completed",
+  "progress": "delivered",
+  "photographerIds": [
+   "ph_royal_1",
+   "ph_royal_2"
+  ],
+  "isPublic": true,
+  "coverUrl": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=1400&q=70",
+  "createdAt": "2026-08-16T10:00:00.000Z",
+  "notes": [],
+  "delivery": {
+   "targetHours": 24,
+   "completedAt": "2026-09-05T22:00:00.000Z",
+   "highlightsSubmittedAt": "2026-09-06T09:00:00.000Z",
+   "highlightsPublishedAt": "2026-09-06T12:00:00.000Z",
+   "galleryPublishedAt": "2026-09-15T16:00:00.000Z",
+   "status": "delivered",
+   "notes": "Full gallery delivered with Drive backup."
+  }
+ },
+ {
+  "id": "ev_royal_2",
+  "tenantId": "t_royal",
+  "bookingId": "bk_royal_3",
+  "clientId": "cl_royal_1",
+  "title": "Meera & Kabir — Pre-Wedding at Amer Fort",
+  "type": "pre-wedding",
+  "date": "2026-11-04",
+  "startTime": "06:00",
+  "venue": "Amer Fort",
+  "city": "Jaipur",
+  "description": "Sunrise pre-wedding shoot across Sheesh Mahal and the Elephant Ramp.",
+  "status": "completed",
+  "progress": "editing",
+  "photographerIds": [
+   "ph_royal_2",
+   "ph_royal_1"
+  ],
+  "isPublic": false,
+  "coverUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1400&q=70",
+  "createdAt": "2026-10-15T10:00:00.000Z",
+  "notes": [
+   {
+    "id": "en_royal_2_1",
+    "authorName": "Simran Kaur",
+    "authorRole": "photographer",
+    "text": "Golden light worked perfectly at the Sheesh Mahal. 380 frames shot, culling in progress.",
+    "createdAt": "2026-11-03T09:00:00.000Z"
+   }
+  ],
+  "delivery": {
+   "targetHours": 24,
+   "completedAt": "2026-11-04T19:00:00.000Z",
+   "highlightsSubmittedAt": "2026-11-05T08:30:00.000Z",
+   "highlightsPublishedAt": "2026-11-05T11:00:00.000Z",
+   "galleryPublishedAt": null,
+   "status": "highlights_published",
+   "notes": "Highlights live. Full gallery after final retouching."
+  }
+ },
+ {
+  "id": "ev_royal_3",
+  "tenantId": "t_royal",
+  "bookingId": "bk_royal_4",
+  "clientId": "cl_royal_2",
+  "title": "Nair–Menon Palace Wedding",
+  "type": "wedding",
+  "date": "2026-11-05",
+  "startTime": "09:00",
+  "venue": "Samode Palace",
+  "city": "Jaipur",
+  "description": "Two-day Kerala–Rajasthani wedding with 500 guests.",
+  "status": "completed",
+  "progress": "wrapped",
+  "photographerIds": [
+   "ph_royal_1",
+   "ph_royal_3",
+   "ph_royal_2"
+  ],
+  "isPublic": false,
+  "coverUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1400&q=70",
+  "createdAt": "2026-10-16T10:00:00.000Z",
+  "notes": [
+   {
+    "id": "en_royal_3_1",
+    "authorName": "Aarav Mehta",
+    "authorRole": "photographer",
+    "text": "Wrapped at 9 PM. Uploading selects tonight — highlights tomorrow morning.",
+    "createdAt": "2026-11-04T09:00:00.000Z"
+   }
+  ],
+  "delivery": {
+   "targetHours": 24,
+   "completedAt": "2026-11-05T21:00:00.000Z",
+   "highlightsSubmittedAt": null,
+   "highlightsPublishedAt": null,
+   "galleryPublishedAt": null,
+   "status": "pending",
+   "notes": ""
+  }
+ },
+ {
+  "id": "ev_royal_4",
+  "tenantId": "t_royal",
+  "bookingId": "bk_royal_5",
+  "clientId": "cl_royal_3",
+  "title": "Malhotra Textiles — Annual Dealer Meet",
+  "type": "corporate",
+  "date": "2026-11-02",
+  "startTime": "10:00",
+  "venue": "Hotel Clarks Amer",
+  "city": "Jaipur",
+  "description": "Product launch keynote and dealer awards for 180 attendees.",
+  "status": "completed",
+  "progress": "editing",
+  "photographerIds": [
+   "ph_royal_3"
+  ],
+  "isPublic": false,
+  "coverUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=1400&q=70",
+  "createdAt": "2026-10-13T10:00:00.000Z",
+  "notes": [],
+  "delivery": {
+   "targetHours": 24,
+   "completedAt": "2026-11-02T18:00:00.000Z",
+   "highlightsSubmittedAt": "2026-11-03T10:00:00.000Z",
+   "highlightsPublishedAt": null,
+   "galleryPublishedAt": null,
+   "status": "highlights_submitted",
+   "notes": "Highlights submitted — awaiting admin review."
+  }
+ },
+ {
+  "id": "ev_royal_5",
+  "tenantId": "t_royal",
+  "bookingId": "bk_royal_6",
+  "clientId": "cl_royal_4",
+  "title": "Gupta Family Diwali Celebration",
+  "type": "event",
+  "date": "2026-11-12",
+  "startTime": "18:00",
+  "venue": "Gupta Farmhouse",
+  "city": "Sanganer",
+  "description": "Evening Diwali puja, family portraits and dinner.",
+  "status": "scheduled",
+  "progress": "planned",
+  "photographerIds": [
+   "ph_royal_3"
+  ],
+  "isPublic": false,
+  "coverUrl": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1400&q=70",
+  "createdAt": "2026-10-23T10:00:00.000Z",
+  "notes": [],
+  "delivery": {
+   "targetHours": 24,
+   "completedAt": null,
+   "highlightsSubmittedAt": null,
+   "highlightsPublishedAt": null,
+   "galleryPublishedAt": null,
+   "status": "not_due",
+   "notes": ""
+  }
+ },
+ {
+  "id": "ev_royal_6",
+  "tenantId": "t_royal",
+  "bookingId": "bk_royal_1",
+  "clientId": "cl_royal_1",
+  "title": "Meera & Kabir — Wedding",
+  "type": "wedding",
+  "date": "2026-11-27",
+  "startTime": "10:00",
+  "venue": "Umaid Bhawan Palace",
+  "city": "Jodhpur",
+  "description": "Two-ceremony palace wedding with baraat arrival and drone coverage.",
+  "status": "scheduled",
+  "progress": "planned",
+  "photographerIds": [
+   "ph_royal_1",
+   "ph_royal_2",
+   "ph_royal_3"
+  ],
+  "isPublic": false,
+  "coverUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1400&q=70",
+  "createdAt": "2026-11-07T10:00:00.000Z",
+  "notes": [
+   {
+    "id": "en_royal_6_1",
+    "authorName": "Rajveer Singh Rathore",
+    "authorRole": "studio_admin",
+    "text": "Recce of venue scheduled for 20 Nov. Drone permit applied.",
+    "createdAt": "2026-11-26T09:00:00.000Z"
+   }
+  ],
+  "delivery": {
+   "targetHours": 24,
+   "completedAt": null,
+   "highlightsSubmittedAt": null,
+   "highlightsPublishedAt": null,
+   "galleryPublishedAt": null,
+   "status": "not_due",
+   "notes": ""
+  }
+ },
+ {
+  "id": "ev_royal_7",
+  "tenantId": "t_royal",
+  "bookingId": "bk_royal_10",
+  "clientId": "cl_royal_6",
+  "title": "Sharma–Bhatia Palace Wedding",
+  "type": "wedding",
+  "date": "2026-08-23",
+  "startTime": "11:00",
+  "venue": "Rambagh Palace",
+  "city": "Jaipur",
+  "description": "A three-day celebration of music, ritual and royal hospitality.",
+  "status": "completed",
+  "progress": "delivered",
+  "photographerIds": [
+   "ph_royal_1",
+   "ph_royal_2",
+   "ph_royal_3"
+  ],
+  "isPublic": true,
+  "coverUrl": "https://images.unsplash.com/photo-1537633552985-df8429e8048b?auto=format&fit=crop&w=1400&q=70",
+  "createdAt": "2026-08-03T10:00:00.000Z",
+  "notes": [],
+  "delivery": {
+   "targetHours": 24,
+   "completedAt": "2026-08-23T23:00:00.000Z",
+   "highlightsSubmittedAt": "2026-08-24T09:00:00.000Z",
+   "highlightsPublishedAt": "2026-08-24T11:00:00.000Z",
+   "galleryPublishedAt": "2026-09-07T15:00:00.000Z",
+   "status": "delivered",
+   "notes": ""
+  }
+ },
+ {
+  "id": "ev_royal_8",
+  "tenantId": "t_royal",
+  "bookingId": null,
+  "clientId": null,
+  "title": "Royal Bridal Showcase 2026",
+  "type": "wedding",
+  "date": "2026-10-07",
+  "startTime": "16:00",
+  "venue": "Jai Mahal Palace",
+  "city": "Jaipur",
+  "description": "Our annual bridal showcase featuring designers, florists and live styling.",
+  "status": "completed",
+  "progress": "delivered",
+  "photographerIds": [
+   "ph_royal_1",
+   "ph_royal_2"
+  ],
+  "isPublic": true,
+  "coverUrl": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=1400&q=70",
+  "createdAt": "2026-09-17T10:00:00.000Z",
+  "notes": [],
+  "delivery": {
+   "targetHours": 24,
+   "completedAt": "2026-10-07T22:00:00.000Z",
+   "highlightsSubmittedAt": "2026-10-08T09:00:00.000Z",
+   "highlightsPublishedAt": "2026-10-08T11:00:00.000Z",
+   "galleryPublishedAt": "2026-10-10T12:00:00.000Z",
+   "status": "delivered",
+   "notes": ""
+  }
+ },
+ {
+  "id": "ev_dream_1",
+  "tenantId": "t_dream",
+  "bookingId": "bk_dream_2",
+  "clientId": "cl_dream_1",
+  "title": "Riya & Aman — Pre-Wedding at Marine Drive",
+  "type": "pre-wedding",
+  "date": "2026-11-03",
+  "startTime": "05:30",
+  "venue": "Marine Drive & Bandra Bandstand",
+  "city": "Mumbai",
+  "description": "Sunrise to sunset love-story shoot across South Mumbai.",
+  "status": "completed",
+  "progress": "editing",
+  "photographerIds": [
+   "ph_dream_1",
+   "ph_dream_2"
+  ],
+  "isPublic": false,
+  "coverUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1400&q=70",
+  "createdAt": "2026-10-14T10:00:00.000Z",
+  "notes": [],
+  "delivery": {
+   "targetHours": 24,
+   "completedAt": "2026-11-03T19:00:00.000Z",
+   "highlightsSubmittedAt": "2026-11-04T09:00:00.000Z",
+   "highlightsPublishedAt": "2026-11-04T13:00:00.000Z",
+   "galleryPublishedAt": null,
+   "status": "highlights_published",
+   "notes": ""
+  }
+ },
+ {
+  "id": "ev_dream_2",
+  "tenantId": "t_dream",
+  "bookingId": "bk_dream_1",
+  "clientId": "cl_dream_1",
+  "title": "Riya & Aman — Wedding",
+  "type": "wedding",
+  "date": "2026-12-16",
+  "startTime": "11:00",
+  "venue": "JW Marriott Juhu",
+  "city": "Mumbai",
+  "description": "A beachside wedding with sangeet the night before.",
+  "status": "scheduled",
+  "progress": "planned",
+  "photographerIds": [
+   "ph_dream_2",
+   "ph_dream_1",
+   "ph_dream_3"
+  ],
+  "isPublic": false,
+  "coverUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1400&q=70",
+  "createdAt": "2026-11-26T10:00:00.000Z",
+  "notes": [],
+  "delivery": {
+   "targetHours": 24,
+   "completedAt": null,
+   "highlightsSubmittedAt": null,
+   "highlightsPublishedAt": null,
+   "galleryPublishedAt": null,
+   "status": "not_due",
+   "notes": ""
+  }
+ },
+ {
+  "id": "ev_dream_3",
+  "tenantId": "t_dream",
+  "bookingId": "bk_dream_3",
+  "clientId": "cl_dream_2",
+  "title": "Aarav's 5th Birthday",
+  "type": "birthday",
+  "date": "2026-10-28",
+  "startTime": "16:00",
+  "venue": "Powai Clubhouse",
+  "city": "Mumbai",
+  "description": "Superhero-themed birthday party.",
+  "status": "completed",
+  "progress": "delivered",
+  "photographerIds": [
+   "ph_dream_1"
+  ],
+  "isPublic": true,
+  "coverUrl": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=1400&q=70",
+  "createdAt": "2026-10-08T10:00:00.000Z",
+  "notes": [],
+  "delivery": {
+   "targetHours": 24,
+   "completedAt": "2026-10-28T20:00:00.000Z",
+   "highlightsSubmittedAt": "2026-10-29T10:00:00.000Z",
+   "highlightsPublishedAt": "2026-10-29T12:00:00.000Z",
+   "galleryPublishedAt": "2026-10-31T17:00:00.000Z",
+   "status": "delivered",
+   "notes": ""
+  }
+ },
+ {
+  "id": "ev_dream_4",
+  "tenantId": "t_dream",
+  "bookingId": null,
+  "clientId": null,
+  "title": "Dream Moments Open Studio Day",
+  "type": "portrait",
+  "date": "2026-10-17",
+  "startTime": "11:00",
+  "venue": "Bandra Studio",
+  "city": "Mumbai",
+  "description": "Free mini-portraits for neighbours and friends.",
+  "status": "completed",
+  "progress": "delivered",
+  "photographerIds": [
+   "ph_dream_1",
+   "ph_dream_2",
+   "ph_dream_3"
+  ],
+  "isPublic": true,
+  "coverUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1400&q=70",
+  "createdAt": "2026-09-27T10:00:00.000Z",
+  "notes": [],
+  "delivery": {
+   "targetHours": 24,
+   "completedAt": "2026-10-17T20:00:00.000Z",
+   "highlightsSubmittedAt": "2026-10-18T10:00:00.000Z",
+   "highlightsPublishedAt": "2026-10-18T12:00:00.000Z",
+   "galleryPublishedAt": "2026-10-19T12:00:00.000Z",
+   "status": "delivered",
+   "notes": ""
+  }
+ },
+ {
+  "id": "ev_pixel_1",
+  "tenantId": "t_pixel",
+  "bookingId": "bk_pixel_1",
+  "clientId": "cl_pixel_1",
+  "title": "Aura Cosmetics — Spring Catalogue",
+  "type": "product",
+  "date": "2026-10-25",
+  "startTime": "10:00",
+  "venue": "Pixel Studio",
+  "city": "Pune",
+  "description": "50 SKU packshots and lifestyle frames.",
+  "status": "completed",
+  "progress": "delivered",
+  "photographerIds": [
+   "ph_pixel_1"
+  ],
+  "isPublic": false,
+  "coverUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1400&q=70",
+  "createdAt": "2026-10-05T10:00:00.000Z",
+  "notes": [],
+  "delivery": {
+   "targetHours": 48,
+   "completedAt": "2026-10-25T18:00:00.000Z",
+   "highlightsSubmittedAt": "2026-10-26T12:00:00.000Z",
+   "highlightsPublishedAt": "2026-10-26T14:00:00.000Z",
+   "galleryPublishedAt": "2026-10-28T16:00:00.000Z",
+   "status": "delivered",
+   "notes": ""
+  }
+ },
+ {
+  "id": "ev_pixel_2",
+  "tenantId": "t_pixel",
+  "bookingId": "bk_pixel_2",
+  "clientId": "cl_pixel_2",
+  "title": "Zenith Tech — Team Headshots",
+  "type": "corporate",
+  "date": "2026-11-16",
+  "startTime": "10:00",
+  "venue": "Zenith Tech Campus",
+  "city": "Pune",
+  "description": "Headshots for 25 employees.",
+  "status": "scheduled",
+  "progress": "planned",
+  "photographerIds": [
+   "ph_pixel_1"
+  ],
+  "isPublic": false,
+  "coverUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=1400&q=70",
+  "createdAt": "2026-10-27T10:00:00.000Z",
+  "notes": [],
+  "delivery": {
+   "targetHours": 48,
+   "completedAt": null,
+   "highlightsSubmittedAt": null,
+   "highlightsPublishedAt": null,
+   "galleryPublishedAt": null,
+   "status": "not_due",
+   "notes": ""
+  }
+ },
+ {
+  "id": "ev_creative_1",
+  "tenantId": "t_creative",
+  "bookingId": "bk_creative_1",
+  "clientId": "cl_creative_1",
+  "title": "Chloe Bennett — Editorial Day",
+  "type": "fashion",
+  "date": "2026-10-17",
+  "startTime": "10:00",
+  "venue": "Creative Lens Studio",
+  "city": "Austin",
+  "description": "Editorial portfolio shoot.",
+  "status": "completed",
+  "progress": "delivered",
+  "photographerIds": [
+   "ph_creative_1"
+  ],
+  "isPublic": true,
+  "coverUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1400&q=70",
+  "createdAt": "2026-09-27T10:00:00.000Z",
+  "notes": [],
+  "delivery": {
+   "targetHours": 72,
+   "completedAt": "2026-10-17T17:00:00.000Z",
+   "highlightsSubmittedAt": "2026-10-19T10:00:00.000Z",
+   "highlightsPublishedAt": "2026-10-19T12:00:00.000Z",
+   "galleryPublishedAt": "2026-10-22T12:00:00.000Z",
+   "status": "delivered",
+   "notes": ""
+  }
+ }
+]

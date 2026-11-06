@@ -1,3 +1,134 @@
-{
-  "_todo": "Replace with mock testimonials from the project Markdown file."
-}
+[
+ {
+  "id": "tst_royal_1",
+  "tenantId": "t_royal",
+  "clientName": "Aditi Sharma",
+  "role": "Bride · Rambagh Palace",
+  "eventType": "wedding",
+  "rating": 5,
+  "quote": "They disappeared into the background and still caught every tear and laugh. The highlights arrived the next morning and my mother cried all over again.",
+  "avatarUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=300&q=70",
+  "featured": true,
+  "createdAt": "2026-09-09T10:00:00.000Z"
+ },
+ {
+  "id": "tst_royal_2",
+  "tenantId": "t_royal",
+  "clientName": "Meera Kapoor",
+  "role": "Bride · Udaipur",
+  "eventType": "engagement",
+  "rating": 5,
+  "quote": "Simran made us feel completely at ease. We booked the wedding the very same week.",
+  "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=70",
+  "featured": true,
+  "createdAt": "2026-09-17T10:00:00.000Z"
+ },
+ {
+  "id": "tst_royal_3",
+  "tenantId": "t_royal",
+  "clientName": "Karan Malhotra",
+  "role": "Director, Malhotra Textiles",
+  "eventType": "corporate",
+  "rating": 5,
+  "quote": "Professional, punctual and the images were on our dealer app within a day.",
+  "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=70",
+  "featured": true,
+  "createdAt": "2026-11-03T10:00:00.000Z"
+ },
+ {
+  "id": "tst_royal_4",
+  "tenantId": "t_royal",
+  "clientName": "Neha Gupta",
+  "role": "Host · Diwali Party",
+  "eventType": "event",
+  "rating": 4,
+  "quote": "Great energy and lovely candids of the whole family.",
+  "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=300&q=70",
+  "featured": false,
+  "createdAt": "2026-07-09T10:00:00.000Z"
+ },
+ {
+  "id": "tst_dream_1",
+  "tenantId": "t_dream",
+  "clientName": "Sameer Khanna",
+  "role": "Father · Powai",
+  "eventType": "birthday",
+  "rating": 5,
+  "quote": "Ananya had forty kids smiling at the camera — a miracle!",
+  "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=70",
+  "featured": true,
+  "createdAt": "2026-10-31T10:00:00.000Z"
+ },
+ {
+  "id": "tst_dream_2",
+  "tenantId": "t_dream",
+  "clientName": "Riya Shah",
+  "role": "Bride-to-be · Mumbai",
+  "eventType": "pre-wedding",
+  "rating": 5,
+  "quote": "The Marine Drive shoot felt like a movie. The client portal made delivery so easy.",
+  "avatarUrl": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=300&q=70",
+  "featured": true,
+  "createdAt": "2026-11-04T10:00:00.000Z"
+ },
+ {
+  "id": "tst_dream_3",
+  "tenantId": "t_dream",
+  "clientName": "Neelam Rao",
+  "role": "Bride · Juhu",
+  "eventType": "wedding",
+  "rating": 5,
+  "quote": "Candid, warm and exactly what we wanted.",
+  "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=70",
+  "featured": true,
+  "createdAt": "2026-06-19T10:00:00.000Z"
+ },
+ {
+  "id": "tst_pixel_1",
+  "tenantId": "t_pixel",
+  "clientName": "Aura Cosmetics",
+  "role": "E-commerce brand",
+  "eventType": "product",
+  "rating": 5,
+  "quote": "Clean, consistent and marketplace-ready every single time.",
+  "avatarUrl": "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?auto=format&fit=crop&w=300&q=70",
+  "featured": true,
+  "createdAt": "2026-10-28T10:00:00.000Z"
+ },
+ {
+  "id": "tst_pixel_2",
+  "tenantId": "t_pixel",
+  "clientName": "Rohit Deshmukh",
+  "role": "Founder, Brewline",
+  "eventType": "portrait",
+  "rating": 5,
+  "quote": "Our founder portraits finally look like us.",
+  "avatarUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=300&q=70",
+  "featured": true,
+  "createdAt": "2026-10-07T10:00:00.000Z"
+ },
+ {
+  "id": "tst_creative_1",
+  "tenantId": "t_creative",
+  "clientName": "Chloe Bennett",
+  "role": "Model & creative",
+  "eventType": "fashion",
+  "rating": 5,
+  "quote": "Jordan’s direction is incredible. The best portfolio I have ever had.",
+  "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=300&q=70",
+  "featured": true,
+  "createdAt": "2026-10-22T10:00:00.000Z"
+ },
+ {
+  "id": "tst_creative_2",
+  "tenantId": "t_creative",
+  "clientName": "Anthony Cruz",
+  "role": "Musician",
+  "eventType": "portrait",
+  "rating": 5,
+  "quote": "Moody, honest, unforgettable portraits.",
+  "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=300&q=70",
+  "featured": true,
+  "createdAt": "2026-09-07T10:00:00.000Z"
+ }
+]

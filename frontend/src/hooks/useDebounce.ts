@@ -1,1 +1,6 @@
-// TODO: Add debounce hook from the project Markdown file.
+import { useEffect, useState } from 'react';
+export function useDebounce<T>(value: T, ms = 250) {
+  const [v, setV] = useState(value);
+  useEffect(() => { const t = setTimeout(() => setV(value), ms); return () => clearTimeout(t); }, [value, ms]);
+  return v;
+}

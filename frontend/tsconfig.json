@@ -1,3 +1,4 @@
 {
-  "_todo": "Replace with root TypeScript configuration from the project Markdown file."
+  "files": [],
+  "references": [{ "path": "./tsconfig.app.json" }, { "path": "./tsconfig.node.json" }]
 }

@@ -1,3 +1,100 @@
-{
-  "_todo": "Replace with mock blog posts from the project Markdown file."
-}
+[
+ {
+  "id": "blg_royal_1",
+  "tenantId": "t_royal",
+  "slug": "wedding-photography-timeline",
+  "title": "How to Plan Your Wedding-Day Photography Timeline",
+  "excerpt": "A practical hour-by-hour guide so nothing important is missed — and you still enjoy your own wedding.",
+  "body": "Start from the ceremony time and work backwards. Allow 90 minutes for bridal portraits and getting ready, 45 minutes for family formals and at least 30 minutes of golden-hour portraits with your partner.\n\nShare a shot list with your photographer a week before. Families are large; naming the twelve groups that matter most avoids confusion on the day.\n\nFinally, leave buffer time. Palace weddings run late — the best photographs come when nobody is rushing.",
+  "coverUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1400&q=70",
+  "category": "tips",
+  "authorName": "Aarav Mehta",
+  "readMinutes": 5,
+  "publishedAt": "2026-10-17T09:00:00.000Z",
+  "status": "published"
+ },
+ {
+  "id": "blg_royal_2",
+  "tenantId": "t_royal",
+  "slug": "look-natural-in-photos",
+  "title": "Five Tips to Look Natural in Front of the Camera",
+  "excerpt": "Relax your shoulders, breathe, and let your partner make you laugh.",
+  "body": "Natural photographs are rarely accidents. They come from comfort, and comfort comes from preparation — meet your photographer beforehand, and wear outfits you can move in.\n\nKeep your hands busy: hold a dupatta, adjust a cufflink, take your partner’s arm. Movement dissolves stiffness.\n\nAnd talk. Tell each other something real — the best expressions follow.",
+  "coverUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1400&q=70",
+  "category": "tips",
+  "authorName": "Simran Kaur",
+  "readMinutes": 4,
+  "publishedAt": "2026-09-22T09:00:00.000Z",
+  "status": "published"
+ },
+ {
+  "id": "blg_royal_3",
+  "tenantId": "t_royal",
+  "slug": "winter-wedding-samode-palace",
+  "title": "A Winter Wedding at Samode Palace",
+  "excerpt": "Behind the scenes of a two-day Kerala–Rajasthani wedding in the Aravallis.",
+  "body": "When Priya and Arun walked into the courtyard at dusk, the lamps flickered on one by one. That was the shot we had waited for all day.\n\nTheir families blended two traditions without a single dull moment — the Kerala nadaswaram opened the baraat and the Rajasthani ghoomar closed the night.\n\nThis is why we do what we do: weddings that feel like homecomings.",
+  "coverUrl": "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?auto=format&fit=crop&w=1400&q=70",
+  "category": "stories",
+  "authorName": "Aarav Mehta",
+  "readMinutes": 6,
+  "publishedAt": "2026-08-28T09:00:00.000Z",
+  "status": "published"
+ },
+ {
+  "id": "blg_dream_1",
+  "tenantId": "t_dream",
+  "slug": "golden-hour-mumbai",
+  "title": "Choosing the Perfect Golden-Hour Location in Mumbai",
+  "excerpt": "Marine Drive, Bandstand, Worli Fort — a local’s guide to the best light.",
+  "body": "Mumbai’s light is at its best in the first hour after sunrise and the last hour before sunset. Marine Drive faces west, so evenings glow.\n\nBandra Bandstand is quieter at sunrise. Worli Fort offers sea views and texture without the crowds.\n\nWhichever you choose, we scout the week before and plan around tides, traffic and permits.",
+  "coverUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1400&q=70",
+  "category": "tips",
+  "authorName": "Kabir Anand",
+  "readMinutes": 4,
+  "publishedAt": "2026-10-12T09:00:00.000Z",
+  "status": "published"
+ },
+ {
+  "id": "blg_dream_2",
+  "tenantId": "t_dream",
+  "slug": "why-candid-feels-different",
+  "title": "Why Candid Photography Feels Different",
+  "excerpt": "The difference between a posed photograph and a remembered moment.",
+  "body": "A posed photograph tells people what you looked like. A candid one reminds you how you felt.\n\nOur approach is simple: give gentle direction at the start, then step back.",
+  "coverUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1400&q=70",
+  "category": "stories",
+  "authorName": "Ananya Desai",
+  "readMinutes": 3,
+  "publishedAt": "2026-09-07T09:00:00.000Z",
+  "status": "published"
+ },
+ {
+  "id": "blg_pixel_1",
+  "tenantId": "t_pixel",
+  "slug": "marketplace-product-photography-checklist",
+  "title": "Product Photography for Marketplaces: A Quick Checklist",
+  "excerpt": "White backgrounds, aspect ratios and the shots every listing needs.",
+  "body": "Marketplaces reward clean, consistent imagery. Shoot on pure white (RGB 255) and keep the product at 85% of the frame.\n\nAlways add one lifestyle image, one scale reference and one detail macro.",
+  "coverUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1400&q=70",
+  "category": "tips",
+  "authorName": "Nikhil Joshi",
+  "readMinutes": 3,
+  "publishedAt": "2026-11-04T09:00:00.000Z",
+  "status": "published"
+ },
+ {
+  "id": "blg_creative_1",
+  "tenantId": "t_creative",
+  "slug": "first-editorial-session",
+  "title": "Preparing for Your First Editorial Session",
+  "excerpt": "What to bring, what to wear and how to find your angles.",
+  "body": "Bring three outfits with different textures and one statement piece.\n\nMoodboards help. Send us five references you love — and three you hate.",
+  "coverUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1400&q=70",
+  "category": "tips",
+  "authorName": "Jordan Lee",
+  "readMinutes": 4,
+  "publishedAt": "2026-10-07T09:00:00.000Z",
+  "status": "published"
+ }
+]

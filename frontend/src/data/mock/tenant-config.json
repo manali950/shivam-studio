@@ -1,3 +1,396 @@
-{
-  "_todo": "Replace with mock tenant config from the project Markdown file."
-}
+[
+ {
+  "tenantId": "t_royal",
+  "branding": {
+   "logoUrl": "/tenants/royal/logo.svg",
+   "faviconUrl": "/tenants/royal/favicon.svg",
+   "primaryColor": "#A0763A",
+   "secondaryColor": "#5A1F2B",
+   "heroImageUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=2000&q=70",
+   "tagline": "Heritage weddings, timelessly told"
+  },
+  "home": {
+   "headline": "Timeless weddings, told with royal grace.",
+   "subheadline": "Jaipur's award-winning wedding photographers — candid, cinematic and rooted in tradition.",
+   "heroCtaLabel": "Book your date",
+   "featuredPhotoUrls": [
+    "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=70",
+    "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=1200&q=70",
+    "https://images.unsplash.com/photo-1537633552985-df8429e8048b?auto=format&fit=crop&w=1200&q=70",
+    "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?auto=format&fit=crop&w=1200&q=70",
+    "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=1200&q=70",
+    "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?auto=format&fit=crop&w=1200&q=70"
+   ]
+  },
+  "about": {
+   "title": "Three generations of royal storytelling",
+   "intro": "Royal Wedding Photography was founded in a Jaipur courtyard in 2012 with one borrowed camera and a belief: every wedding is a family heirloom in the making.",
+   "history": "What began as a two-person team shooting haveli weddings now has four full-time photographers, a film unit and an editing studio. We have documented more than 850 celebrations across Rajasthan, Udaipur palaces and destination venues in Goa and Kerala.",
+   "philosophy": "We photograph feelings first and poses second. Our team blends in, anticipates the quiet moments — a mother adjusting a veil, a grandfather’s blessing — and edits with a warm, film-inspired palette that ages gracefully.",
+   "achievements": [
+    {
+     "label": "Weddings covered",
+     "value": "850+"
+    },
+    {
+     "label": "Years of experience",
+     "value": "14"
+    },
+    {
+     "label": "Destination shoots",
+     "value": "120+"
+    },
+    {
+     "label": "Average rating",
+     "value": "4.9★"
+    }
+   ],
+   "milestones": [
+    {
+     "year": "2012",
+     "text": "Studio founded in Jaipur"
+    },
+    {
+     "year": "2016",
+     "text": "Launched cinematic film division"
+    },
+    {
+     "year": "2020",
+     "text": "Introduced next-day highlight delivery"
+    },
+    {
+     "year": "2024",
+     "text": "Featured in WeddingSutra Top 50"
+    }
+   ]
+  },
+  "contact": {
+   "email": "hello@royalweddingphotography.in",
+   "phone": "+91 98290 11122",
+   "whatsapp": "919829011122",
+   "address": "14, Bani Park Road, Jaipur, Rajasthan 302016",
+   "city": "Jaipur",
+   "mapUrl": "https://maps.google.com/?q=Bani+Park+Jaipur",
+   "hours": "Mon–Sat · 10:00–19:00"
+  },
+  "social": {
+   "instagram": "https://instagram.com/royalweddingphotography",
+   "facebook": "https://facebook.com/royalweddingphotography",
+   "youtube": "https://youtube.com/@royalweddingphotography",
+   "pinterest": "https://pinterest.com/royalweddings"
+  },
+  "footer": {
+   "text": "Heritage weddings, timelessly told. Based in Jaipur, travelling worldwide.",
+   "copyright": "© 2026 Royal Wedding Photography. All rights reserved."
+  },
+  "settings": {
+   "currency": "INR",
+   "locale": "en-IN",
+   "deliveryTargetHours": 24,
+   "booking": {
+    "enquiryEnabled": true,
+    "autoConfirm": false,
+    "requireDeposit": true,
+    "depositPercent": 30,
+    "minLeadDays": 7
+   },
+   "notifications": {
+    "emailOnNewBooking": true,
+    "emailOnDelivery": true,
+    "smsReminders": false,
+    "reminderDaysBefore": 3
+   },
+   "business": {
+    "legalName": "Royal Wedding Photography Pvt. Ltd.",
+    "taxId": "08ABCDE1234F1Z5",
+    "invoicePrefix": "RWP",
+    "timezone": "Asia/Kolkata"
+   }
+  }
+ },
+ {
+  "tenantId": "t_dream",
+  "branding": {
+   "logoUrl": "/tenants/dream/logo.svg",
+   "faviconUrl": "/tenants/dream/favicon.svg",
+   "primaryColor": "#C0675A",
+   "secondaryColor": "#2F4858",
+   "heroImageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=2000&q=70",
+   "tagline": "Candid stories, dreamlike light"
+  },
+  "home": {
+   "headline": "Moments that feel like a dream.",
+   "subheadline": "Mumbai-based candid photographers capturing love stories, milestones and the little things in between.",
+   "heroCtaLabel": "Plan your shoot",
+   "featuredPhotoUrls": [
+    "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1200&q=70",
+    "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?auto=format&fit=crop&w=1200&q=70",
+    "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&w=1200&q=70",
+    "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?auto=format&fit=crop&w=1200&q=70",
+    "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?auto=format&fit=crop&w=1200&q=70",
+    "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=1200&q=70"
+   ]
+  },
+  "about": {
+   "title": "Candid at heart, cinematic by craft",
+   "intro": "Dream Moments Studio is a small, close-knit team of Mumbai photographers who believe the best photographs happen when nobody is posing.",
+   "history": "Started by Kabir Anand in 2017 after a decade in photojournalism, the studio has grown into a boutique practice focused on weddings, pre-wedding stories and family milestones.",
+   "philosophy": "Soft light, honest emotion, zero stiffness. We guide gently and let real moments unfold.",
+   "achievements": [
+    {
+     "label": "Stories told",
+     "value": "520+"
+    },
+    {
+     "label": "Years",
+     "value": "9"
+    },
+    {
+     "label": "Cities",
+     "value": "14"
+    },
+    {
+     "label": "Rating",
+     "value": "4.8★"
+    }
+   ],
+   "milestones": [
+    {
+     "year": "2017",
+     "text": "Dream Moments founded"
+    },
+    {
+     "year": "2021",
+     "text": "Opened Bandra studio"
+    },
+    {
+     "year": "2025",
+     "text": "Launched client portal with next-day highlights"
+    }
+   ]
+  },
+  "contact": {
+   "email": "hello@dreammoments.studio",
+   "phone": "+91 98200 55501",
+   "whatsapp": "919820055501",
+   "address": "7, Carter Road, Bandra West, Mumbai 400050",
+   "city": "Mumbai",
+   "mapUrl": "https://maps.google.com/?q=Carter+Road+Bandra",
+   "hours": "Tue–Sun · 11:00–20:00"
+  },
+  "social": {
+   "instagram": "https://instagram.com/dreammomentsstudio",
+   "facebook": "https://facebook.com/dreammomentsstudio",
+   "youtube": "https://youtube.com/@dreammomentsstudio"
+  },
+  "footer": {
+   "text": "Candid stories, dreamlike light — Mumbai & beyond.",
+   "copyright": "© 2026 Dream Moments Studio."
+  },
+  "settings": {
+   "currency": "INR",
+   "locale": "en-IN",
+   "deliveryTargetHours": 24,
+   "booking": {
+    "enquiryEnabled": true,
+    "autoConfirm": false,
+    "requireDeposit": true,
+    "depositPercent": 30,
+    "minLeadDays": 7
+   },
+   "notifications": {
+    "emailOnNewBooking": true,
+    "emailOnDelivery": true,
+    "smsReminders": false,
+    "reminderDaysBefore": 3
+   },
+   "business": {
+    "legalName": "Dream Moments Studio LLP",
+    "taxId": "27AAAFD1234Q1ZP",
+    "invoicePrefix": "DMS",
+    "timezone": "Asia/Kolkata"
+   }
+  }
+ },
+ {
+  "tenantId": "t_pixel",
+  "branding": {
+   "logoUrl": "/tenants/pixel/logo.svg",
+   "faviconUrl": "/tenants/pixel/favicon.svg",
+   "primaryColor": "#2F6F73",
+   "secondaryColor": "#1F2A44",
+   "heroImageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=2000&q=70",
+   "tagline": "Sharp images for ambitious brands"
+  },
+  "home": {
+   "headline": "Sharp images for ambitious brands.",
+   "subheadline": "Product, corporate and fashion photography from a Pune studio built for speed, consistency and clean lighting.",
+   "heroCtaLabel": "Request a quote",
+   "featuredPhotoUrls": [
+    "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1200&q=70",
+    "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=70",
+    "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=70",
+    "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=1200&q=70",
+    "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=1200&q=70",
+    "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=1200&q=70"
+   ]
+  },
+  "about": {
+   "title": "A studio built for brands",
+   "intro": "Pixel Photography helps e-commerce brands, startups and corporates look consistent and credible — on every channel.",
+   "history": "Founded in 2024 by Nikhil Joshi, Pixel runs a 1,200 sq ft daylight and strobe studio in Koregaon Park.",
+   "philosophy": "Clarity, consistency and fast turnaround.",
+   "achievements": [
+    {
+     "label": "Brands served",
+     "value": "60+"
+    },
+    {
+     "label": "Products shot",
+     "value": "9,000+"
+    },
+    {
+     "label": "Turnaround",
+     "value": "48h"
+    }
+   ],
+   "milestones": [
+    {
+     "year": "2024",
+     "text": "Studio opened in Pune"
+    },
+    {
+     "year": "2026",
+     "text": "Joined shivamStudio platform"
+    }
+   ]
+  },
+  "contact": {
+   "email": "studio@pixelphotography.in",
+   "phone": "+91 98220 33344",
+   "whatsapp": "919822033344",
+   "address": "21, Lane 6, Koregaon Park, Pune 411001",
+   "city": "Pune",
+   "mapUrl": "https://maps.google.com/?q=Koregaon+Park+Pune",
+   "hours": "Mon–Fri · 09:30–18:30"
+  },
+  "social": {
+   "instagram": "https://instagram.com/pixelphotography.in",
+   "youtube": "https://youtube.com/@pixelphotography"
+  },
+  "footer": {
+   "text": "Product, corporate & fashion photography — Pune.",
+   "copyright": "© 2026 Pixel Photography."
+  },
+  "settings": {
+   "currency": "INR",
+   "locale": "en-IN",
+   "deliveryTargetHours": 48,
+   "booking": {
+    "enquiryEnabled": true,
+    "autoConfirm": false,
+    "requireDeposit": true,
+    "depositPercent": 30,
+    "minLeadDays": 7
+   },
+   "notifications": {
+    "emailOnNewBooking": true,
+    "emailOnDelivery": true,
+    "smsReminders": false,
+    "reminderDaysBefore": 3
+   },
+   "business": {
+    "legalName": "Pixel Photography",
+    "taxId": "27AAAPJ1234K1Z2",
+    "invoicePrefix": "PXP",
+    "timezone": "Asia/Kolkata"
+   }
+  }
+ },
+ {
+  "tenantId": "t_creative",
+  "branding": {
+   "logoUrl": "/tenants/creative/logo.svg",
+   "faviconUrl": "/tenants/creative/favicon.svg",
+   "primaryColor": "#6B5B95",
+   "secondaryColor": "#2B2D42",
+   "heroImageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=2000&q=70",
+   "tagline": "Portraits with personality"
+  },
+  "home": {
+   "headline": "Portraits with personality.",
+   "subheadline": "Editorial portraits, fashion and couples photography in Austin, Texas.",
+   "heroCtaLabel": "Book a session",
+   "featuredPhotoUrls": [
+    "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1200&q=70",
+    "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1200&q=70",
+    "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1200&q=70",
+    "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=1200&q=70",
+    "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=70",
+    "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&w=1200&q=70"
+   ]
+  },
+  "about": {
+   "title": "Light, texture and a little rebellion",
+   "intro": "Creative Lens Studio is an Austin collective of editorial photographers.",
+   "history": "Founded in 2020 by Jordan Lee, the studio blends fashion-world polish with the warmth of portrait work.",
+   "philosophy": "Every face has a story; our job is to light it honestly.",
+   "achievements": [
+    {
+     "label": "Sessions",
+     "value": "1,100+"
+    },
+    {
+     "label": "Years",
+     "value": "6"
+    }
+   ],
+   "milestones": [
+    {
+     "year": "2020",
+     "text": "Studio founded"
+    }
+   ]
+  },
+  "contact": {
+   "email": "hello@creativelens.studio",
+   "phone": "+1 512 555 0142",
+   "whatsapp": "15125550142",
+   "address": "1200 S Congress Ave, Austin, TX 78704",
+   "city": "Austin",
+   "mapUrl": "https://maps.google.com/?q=S+Congress+Ave+Austin",
+   "hours": "Wed–Sun · 10:00–18:00"
+  },
+  "social": {
+   "instagram": "https://instagram.com/creativelensstudio"
+  },
+  "footer": {
+   "text": "Editorial portraits & fashion — Austin, TX.",
+   "copyright": "© 2026 Creative Lens Studio."
+  },
+  "settings": {
+   "currency": "USD",
+   "locale": "en-US",
+   "deliveryTargetHours": 72,
+   "booking": {
+    "enquiryEnabled": true,
+    "autoConfirm": false,
+    "requireDeposit": true,
+    "depositPercent": 30,
+    "minLeadDays": 7
+   },
+   "notifications": {
+    "emailOnNewBooking": true,
+    "emailOnDelivery": true,
+    "smsReminders": false,
+    "reminderDaysBefore": 3
+   },
+   "business": {
+    "legalName": "Creative Lens Studio LLC",
+    "taxId": "88-1234567",
+    "invoicePrefix": "CLS",
+    "timezone": "America/Chicago"
+   }
+  }
+ }
+]

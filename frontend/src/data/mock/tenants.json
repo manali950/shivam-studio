@@ -1,3 +1,62 @@
-{
-  "_todo": "Replace with mock tenants from the project Markdown file."
-}
+[
+ {
+  "id": "t_royal",
+  "slug": "royal",
+  "name": "Royal Wedding Photography",
+  "status": "active",
+  "planId": "plan_pro",
+  "subscriptionStatus": "active",
+  "renewsAt": "2026-11-30",
+  "subdomain": "royal",
+  "customDomain": "royalweddingphotography.in",
+  "ownerName": "Rajveer Singh Rathore",
+  "ownerEmail": "admin@royal.demo",
+  "city": "Jaipur, India",
+  "createdAt": "2025-02-24T10:00:00.000Z"
+ },
+ {
+  "id": "t_dream",
+  "slug": "dream",
+  "name": "Dream Moments Studio",
+  "status": "active",
+  "planId": "plan_growth",
+  "subscriptionStatus": "active",
+  "renewsAt": "2026-11-17",
+  "subdomain": "dream",
+  "customDomain": null,
+  "ownerName": "Kabir Anand",
+  "ownerEmail": "admin@dream.demo",
+  "city": "Mumbai, India",
+  "createdAt": "2025-09-22T10:00:00.000Z"
+ },
+ {
+  "id": "t_pixel",
+  "slug": "pixel",
+  "name": "Pixel Photography",
+  "status": "trial",
+  "planId": "plan_starter",
+  "subscriptionStatus": "trialing",
+  "renewsAt": "2026-11-15",
+  "subdomain": "pixel",
+  "customDomain": null,
+  "ownerName": "Nikhil Joshi",
+  "ownerEmail": "admin@pixel.demo",
+  "city": "Pune, India",
+  "createdAt": "2026-11-01T10:00:00.000Z"
+ },
+ {
+  "id": "t_creative",
+  "slug": "creative",
+  "name": "Creative Lens Studio",
+  "status": "inactive",
+  "planId": "plan_starter",
+  "subscriptionStatus": "past_due",
+  "renewsAt": "2026-10-25",
+  "subdomain": "creative",
+  "customDomain": "creativelens.studio",
+  "ownerName": "Jordan Lee",
+  "ownerEmail": "admin@creative.demo",
+  "city": "Austin, USA",
+  "createdAt": "2026-03-11T10:00:00.000Z"
+ }
+]

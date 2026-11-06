@@ -1,3 +1,52 @@
-{
-  "_todo": "Replace with mock plans from the project Markdown file."
-}
+[
+ {
+  "id": "plan_starter",
+  "name": "Starter",
+  "priceMonthly": 1999,
+  "currency": "INR",
+  "maxPhotographers": 3,
+  "maxStorageGb": 25,
+  "maxBookingsPerMonth": 30,
+  "features": [
+   "Studio website",
+   "Booking enquiries",
+   "YouTube & Drive links",
+   "Email support"
+  ],
+  "status": "active"
+ },
+ {
+  "id": "plan_growth",
+  "name": "Growth",
+  "priceMonthly": 4999,
+  "currency": "INR",
+  "maxPhotographers": 8,
+  "maxStorageGb": 150,
+  "maxBookingsPerMonth": 120,
+  "features": [
+   "Everything in Starter",
+   "Next-day delivery workflow",
+   "Client portal",
+   "Custom domain",
+   "Priority support"
+  ],
+  "status": "active"
+ },
+ {
+  "id": "plan_pro",
+  "name": "Pro",
+  "priceMonthly": 9999,
+  "currency": "INR",
+  "maxPhotographers": 25,
+  "maxStorageGb": 600,
+  "maxBookingsPerMonth": 999,
+  "features": [
+   "Everything in Growth",
+   "Unlimited galleries",
+   "Advanced analytics",
+   "White-label branding",
+   "Dedicated success manager"
+  ],
+  "status": "active"
+ }
+]

@@ -1,3 +1,74 @@
-{
-  "_todo": "Replace with mock drive links from the project Markdown file."
-}
+[
+ {
+  "id": "drv_royal_1",
+  "tenantId": "t_royal",
+  "title": "Engagement — Full-Resolution Gallery",
+  "url": "https://drive.google.com/drive/folders/1AbCdEfGhIjKlMnOpQrStUvWxYz01Eng1?usp=sharing",
+  "folderId": "1AbCdEfGhIjKlMnOpQrStUvWxYz01Eng1",
+  "description": "All 340 edited images in full resolution.",
+  "eventId": "ev_royal_1",
+  "clientId": "cl_royal_1",
+  "visibility": "client",
+  "createdAt": "2026-09-15T10:00:00.000Z"
+ },
+ {
+  "id": "drv_royal_2",
+  "tenantId": "t_royal",
+  "title": "Pre-Wedding — Selects (Amer Fort)",
+  "url": "https://drive.google.com/drive/folders/1AbCdEfGhIjKlMnOpQrStUvWxYz02Pre2?usp=sharing",
+  "folderId": "1AbCdEfGhIjKlMnOpQrStUvWxYz02Pre2",
+  "description": "Early selects. Final retouched set follows.",
+  "eventId": "ev_royal_2",
+  "clientId": "cl_royal_1",
+  "visibility": "client",
+  "createdAt": "2026-11-05T10:00:00.000Z"
+ },
+ {
+  "id": "drv_royal_3",
+  "tenantId": "t_royal",
+  "title": "Sharma–Bhatia Wedding — Complete Album",
+  "url": "https://drive.google.com/drive/folders/1AbCdEfGhIjKlMnOpQrStUvWxYz03Wed7?usp=sharing",
+  "folderId": "1AbCdEfGhIjKlMnOpQrStUvWxYz03Wed7",
+  "description": "Full 1,500-image delivery plus film.",
+  "eventId": "ev_royal_7",
+  "clientId": "cl_royal_6",
+  "visibility": "client",
+  "createdAt": "2026-09-07T10:00:00.000Z"
+ },
+ {
+  "id": "drv_royal_4",
+  "tenantId": "t_royal",
+  "title": "Internal — RAW Backup Q4",
+  "url": "https://drive.google.com/drive/folders/1AbCdEfGhIjKlMnOpQrStUvWxYz04Raw0?usp=sharing",
+  "folderId": "1AbCdEfGhIjKlMnOpQrStUvWxYz04Raw0",
+  "description": "Studio-only archive. Not visible to clients.",
+  "eventId": null,
+  "clientId": null,
+  "visibility": "private",
+  "createdAt": "2026-10-27T10:00:00.000Z"
+ },
+ {
+  "id": "drv_dream_1",
+  "tenantId": "t_dream",
+  "title": "Aarav's Birthday — Full Gallery",
+  "url": "https://drive.google.com/drive/folders/1DrEaMmOmEnTsStUdIoBdAy2026Fol01?usp=sharing",
+  "folderId": "1DrEaMmOmEnTsStUdIoBdAy2026Fol01",
+  "description": "All images, full resolution.",
+  "eventId": "ev_dream_3",
+  "clientId": "cl_dream_2",
+  "visibility": "client",
+  "createdAt": "2026-10-31T10:00:00.000Z"
+ },
+ {
+  "id": "drv_pixel_1",
+  "tenantId": "t_pixel",
+  "title": "Aura Spring Catalogue — Final Files",
+  "url": "https://drive.google.com/drive/folders/1PiXeLpHoToGrApHyAuRaCaTaLoGue01?usp=sharing",
+  "folderId": "1PiXeLpHoToGrApHyAuRaCaTaLoGue01",
+  "description": "Marketplace-compliant exports.",
+  "eventId": "ev_pixel_1",
+  "clientId": "cl_pixel_1",
+  "visibility": "client",
+  "createdAt": "2026-10-28T10:00:00.000Z"
+ }
+]

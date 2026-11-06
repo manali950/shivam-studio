@@ -1,3 +1,661 @@
-{
-  "_todo": "Replace with mock bookings from the project Markdown file."
-}
+[
+ {
+  "id": "bk_royal_1",
+  "tenantId": "t_royal",
+  "reference": "RWP-2026-0001",
+  "clientId": "cl_royal_1",
+  "customer": {
+   "name": "Meera Kapoor",
+   "email": "meera@royal.demo",
+   "phone": "+91 98110 40011"
+  },
+  "serviceId": "svc_royal_wedding",
+  "packageId": "pkg_royal_signature",
+  "eventDate": "2026-11-27",
+  "location": "Umaid Bhawan Palace, Jodhpur",
+  "guestCount": 350,
+  "requirements": "Two ceremonies (Hindu + Sikh). Parents want a dedicated family portrait session.",
+  "status": "confirmed",
+  "paymentStatus": "partial",
+  "amount": 275000,
+  "paidAmount": 137500,
+  "assignedPhotographerIds": [
+   "ph_royal_1",
+   "ph_royal_2",
+   "ph_royal_3"
+  ],
+  "eventId": "ev_royal_6",
+  "notes": [
+   {
+    "id": "bn_royal_1_1",
+    "authorName": "Rajveer Singh Rathore",
+    "text": "Advance of 50% received via bank transfer. Team of 3 assigned.",
+    "createdAt": "2026-09-23T11:00:00.000Z"
+   },
+   {
+    "id": "bn_royal_1_2",
+    "authorName": "Rajveer Singh Rathore",
+    "text": "Client asked for a separate drone shot of the baraat arrival.",
+    "createdAt": "2026-09-24T11:00:00.000Z"
+   }
+  ],
+  "source": "referral",
+  "createdAt": "2026-09-22T14:00:00.000Z",
+  "updatedAt": "2026-09-25T12:00:00.000Z"
+ },
+ {
+  "id": "bk_royal_2",
+  "tenantId": "t_royal",
+  "reference": "RWP-2026-0002",
+  "clientId": "cl_royal_1",
+  "customer": {
+   "name": "Meera Kapoor",
+   "email": "meera@royal.demo",
+   "phone": "+91 98110 40011"
+  },
+  "serviceId": "svc_royal_engagement",
+  "packageId": "pkg_royal_engage",
+  "eventDate": "2026-09-05",
+  "location": "The Leela Palace, Udaipur",
+  "guestCount": 120,
+  "requirements": "",
+  "status": "completed",
+  "paymentStatus": "paid",
+  "amount": 38000,
+  "paidAmount": 38000,
+  "assignedPhotographerIds": [
+   "ph_royal_1",
+   "ph_royal_2"
+  ],
+  "eventId": "ev_royal_1",
+  "notes": [],
+  "source": "website",
+  "createdAt": "2026-07-09T14:00:00.000Z",
+  "updatedAt": "2026-07-12T12:00:00.000Z"
+ },
+ {
+  "id": "bk_royal_3",
+  "tenantId": "t_royal",
+  "reference": "RWP-2026-0003",
+  "clientId": "cl_royal_1",
+  "customer": {
+   "name": "Meera Kapoor",
+   "email": "meera@royal.demo",
+   "phone": "+91 98110 40011"
+  },
+  "serviceId": "svc_royal_pre-wedding",
+  "packageId": "pkg_royal_prewed",
+  "eventDate": "2026-11-04",
+  "location": "Amer Fort, Jaipur",
+  "guestCount": 2,
+  "requirements": "Sunrise slot, traditional + contemporary outfits.",
+  "status": "completed",
+  "paymentStatus": "paid",
+  "amount": 55000,
+  "paidAmount": 55000,
+  "assignedPhotographerIds": [
+   "ph_royal_2",
+   "ph_royal_1"
+  ],
+  "eventId": "ev_royal_2",
+  "notes": [
+   {
+    "id": "bn_royal_3_1",
+    "authorName": "Rajveer Singh Rathore",
+    "text": "Shoot completed. Simran submitting highlights today.",
+    "createdAt": "2026-09-18T11:00:00.000Z"
+   }
+  ],
+  "source": "website",
+  "createdAt": "2026-09-17T14:00:00.000Z",
+  "updatedAt": "2026-09-20T12:00:00.000Z"
+ },
+ {
+  "id": "bk_royal_4",
+  "tenantId": "t_royal",
+  "reference": "RWP-2026-0004",
+  "clientId": "cl_royal_2",
+  "customer": {
+   "name": "Priya Nair",
+   "email": "priya@royal.demo",
+   "phone": "+91 98110 40022"
+  },
+  "serviceId": "svc_royal_wedding",
+  "packageId": "pkg_royal_heritage",
+  "eventDate": "2026-11-05",
+  "location": "Samode Palace, Jaipur",
+  "guestCount": 500,
+  "requirements": "Mehndi + wedding day. Priority: family candids.",
+  "status": "completed",
+  "paymentStatus": "partial",
+  "amount": 450000,
+  "paidAmount": 360000,
+  "assignedPhotographerIds": [
+   "ph_royal_1",
+   "ph_royal_3",
+   "ph_royal_2"
+  ],
+  "eventId": "ev_royal_3",
+  "notes": [
+   {
+    "id": "bn_royal_4_1",
+    "authorName": "Rajveer Singh Rathore",
+    "text": "Balance ₹90,000 due on delivery of the complete gallery.",
+    "createdAt": "2026-06-20T11:00:00.000Z"
+   }
+  ],
+  "source": "website",
+  "createdAt": "2026-06-19T14:00:00.000Z",
+  "updatedAt": "2026-06-22T12:00:00.000Z"
+ },
+ {
+  "id": "bk_royal_5",
+  "tenantId": "t_royal",
+  "reference": "RWP-2026-0005",
+  "clientId": "cl_royal_3",
+  "customer": {
+   "name": "Karan Malhotra",
+   "email": "karan@malhotratextiles.in",
+   "phone": "+91 98110 40033"
+  },
+  "serviceId": "svc_royal_corporate",
+  "packageId": null,
+  "eventDate": "2026-11-02",
+  "location": "Hotel Clarks Amer, Jaipur",
+  "guestCount": 180,
+  "requirements": "",
+  "status": "completed",
+  "paymentStatus": "paid",
+  "amount": 65000,
+  "paidAmount": 65000,
+  "assignedPhotographerIds": [
+   "ph_royal_3"
+  ],
+  "eventId": "ev_royal_4",
+  "notes": [],
+  "source": "website",
+  "createdAt": "2026-09-07T14:00:00.000Z",
+  "updatedAt": "2026-09-10T12:00:00.000Z"
+ },
+ {
+  "id": "bk_royal_6",
+  "tenantId": "t_royal",
+  "reference": "RWP-2026-0006",
+  "clientId": "cl_royal_4",
+  "customer": {
+   "name": "Neha Gupta",
+   "email": "neha.gupta@example.com",
+   "phone": "+91 98110 40044"
+  },
+  "serviceId": "svc_royal_event",
+  "packageId": null,
+  "eventDate": "2026-11-12",
+  "location": "Gupta Farmhouse, Sanganer",
+  "guestCount": 90,
+  "requirements": "Diwali puja + dinner. Evening coverage.",
+  "status": "confirmed",
+  "paymentStatus": "partial",
+  "amount": 30000,
+  "paidAmount": 10000,
+  "assignedPhotographerIds": [
+   "ph_royal_3"
+  ],
+  "eventId": "ev_royal_5",
+  "notes": [],
+  "source": "whatsapp",
+  "createdAt": "2026-10-17T14:00:00.000Z",
+  "updatedAt": "2026-10-20T12:00:00.000Z"
+ },
+ {
+  "id": "bk_royal_7",
+  "tenantId": "t_royal",
+  "reference": "RWP-2026-0007",
+  "clientId": "cl_royal_5",
+  "customer": {
+   "name": "Vikram Joshi",
+   "email": "vikram.joshi@example.com",
+   "phone": "+91 98110 40055"
+  },
+  "serviceId": "svc_royal_birthday",
+  "packageId": "pkg_royal_celebrate",
+  "eventDate": "2026-11-20",
+  "location": "Joshi Residence, Malviya Nagar",
+  "guestCount": 60,
+  "requirements": "Surprise 50th for father. Please arrive 30 mins early.",
+  "status": "pending",
+  "paymentStatus": "unpaid",
+  "amount": 22000,
+  "paidAmount": 0,
+  "assignedPhotographerIds": [],
+  "eventId": null,
+  "notes": [
+   {
+    "id": "bn_royal_7_1",
+    "authorName": "Rajveer Singh Rathore",
+    "text": "Quote sent on WhatsApp. Awaiting advance.",
+    "createdAt": "2026-11-01T11:00:00.000Z"
+   }
+  ],
+  "source": "manual",
+  "createdAt": "2026-10-31T14:00:00.000Z",
+  "updatedAt": "2026-11-03T12:00:00.000Z"
+ },
+ {
+  "id": "bk_royal_8",
+  "tenantId": "t_royal",
+  "reference": "RWP-2026-0008",
+  "clientId": null,
+  "customer": {
+   "name": "Sana Qureshi",
+   "email": "sana.q@example.com",
+   "phone": "+91 98765 11122"
+  },
+  "serviceId": "svc_royal_pre-wedding",
+  "packageId": "pkg_royal_prewed",
+  "eventDate": "2027-01-20",
+  "location": "Nahargarh Fort, Jaipur",
+  "guestCount": 2,
+  "requirements": "Looking for a winter shoot, prefer sunrise.",
+  "status": "enquiry",
+  "paymentStatus": "unpaid",
+  "amount": 55000,
+  "paidAmount": 0,
+  "assignedPhotographerIds": [],
+  "eventId": null,
+  "notes": [],
+  "source": "website",
+  "createdAt": "2026-11-05T14:00:00.000Z",
+  "updatedAt": "2026-11-06T12:00:00.000Z"
+ },
+ {
+  "id": "bk_royal_9",
+  "tenantId": "t_royal",
+  "reference": "RWP-2026-0009",
+  "clientId": null,
+  "customer": {
+   "name": "Rahul Bansal",
+   "email": "rahul.bansal@example.com",
+   "phone": "+91 98765 33344"
+  },
+  "serviceId": "svc_royal_wedding",
+  "packageId": "pkg_royal_signature",
+  "eventDate": "2027-03-06",
+  "location": "Taj Rambagh Palace, Jaipur",
+  "guestCount": 400,
+  "requirements": "Need drone + film. Date flexible within March.",
+  "status": "enquiry",
+  "paymentStatus": "unpaid",
+  "amount": 275000,
+  "paidAmount": 0,
+  "assignedPhotographerIds": [],
+  "eventId": null,
+  "notes": [],
+  "source": "website",
+  "createdAt": "2026-11-06T14:00:00.000Z",
+  "updatedAt": "2026-11-06T12:00:00.000Z"
+ },
+ {
+  "id": "bk_royal_10",
+  "tenantId": "t_royal",
+  "reference": "RWP-2026-0010",
+  "clientId": "cl_royal_6",
+  "customer": {
+   "name": "Aditi Sharma",
+   "email": "aditi.sharma@example.com",
+   "phone": "+91 98110 40066"
+  },
+  "serviceId": "svc_royal_wedding",
+  "packageId": "pkg_royal_heritage",
+  "eventDate": "2026-08-23",
+  "location": "Rambagh Palace, Jaipur",
+  "guestCount": 450,
+  "requirements": "",
+  "status": "completed",
+  "paymentStatus": "paid",
+  "amount": 450000,
+  "paidAmount": 450000,
+  "assignedPhotographerIds": [
+   "ph_royal_1",
+   "ph_royal_2",
+   "ph_royal_3"
+  ],
+  "eventId": "ev_royal_7",
+  "notes": [],
+  "source": "website",
+  "createdAt": "2026-04-20T14:00:00.000Z",
+  "updatedAt": "2026-04-23T12:00:00.000Z"
+ },
+ {
+  "id": "bk_royal_11",
+  "tenantId": "t_royal",
+  "reference": "RWP-2026-0011",
+  "clientId": null,
+  "customer": {
+   "name": "Tarun Arora",
+   "email": "tarun.arora@example.com",
+   "phone": "+91 98765 55566"
+  },
+  "serviceId": "svc_royal_wedding",
+  "packageId": "pkg_royal_essentials",
+  "eventDate": "2027-01-05",
+  "location": "Udaipur",
+  "guestCount": 200,
+  "requirements": "",
+  "status": "cancelled",
+  "paymentStatus": "refunded",
+  "amount": 150000,
+  "paidAmount": 0,
+  "assignedPhotographerIds": [],
+  "eventId": null,
+  "notes": [
+   {
+    "id": "bn_royal_11_1",
+    "authorName": "Rajveer Singh Rathore",
+    "text": "Client postponed indefinitely. Token refunded.",
+    "createdAt": "2026-08-04T11:00:00.000Z"
+   }
+  ],
+  "source": "website",
+  "createdAt": "2026-08-03T14:00:00.000Z",
+  "updatedAt": "2026-08-06T12:00:00.000Z"
+ },
+ {
+  "id": "bk_royal_12",
+  "tenantId": "t_royal",
+  "reference": "RWP-2026-0012",
+  "clientId": null,
+  "customer": {
+   "name": "Zoya Fashion House",
+   "email": "studio@zoyafashion.in",
+   "phone": "+91 98765 77788"
+  },
+  "serviceId": "svc_royal_fashion",
+  "packageId": null,
+  "eventDate": "2026-11-18",
+  "location": "Studio, Jaipur",
+  "guestCount": null,
+  "requirements": "",
+  "status": "rejected",
+  "paymentStatus": "unpaid",
+  "amount": 40000,
+  "paidAmount": 0,
+  "assignedPhotographerIds": [],
+  "eventId": null,
+  "notes": [
+   {
+    "id": "bn_royal_12_1",
+    "authorName": "Rajveer Singh Rathore",
+    "text": "Rejected: date clash with the Gupta Diwali event. Suggested 20 Nov.",
+    "createdAt": "2026-10-28T11:00:00.000Z"
+   }
+  ],
+  "source": "website",
+  "createdAt": "2026-10-27T14:00:00.000Z",
+  "updatedAt": "2026-10-30T12:00:00.000Z"
+ },
+ {
+  "id": "bk_dream_1",
+  "tenantId": "t_dream",
+  "reference": "DMS-2026-0001",
+  "clientId": "cl_dream_1",
+  "customer": {
+   "name": "Riya Shah",
+   "email": "riya@dream.demo",
+   "phone": "+91 98330 12121"
+  },
+  "serviceId": "svc_dream_wedding",
+  "packageId": "pkg_dream_luxe",
+  "eventDate": "2026-12-16",
+  "location": "JW Marriott Juhu, Mumbai",
+  "guestCount": 300,
+  "requirements": "",
+  "status": "confirmed",
+  "paymentStatus": "partial",
+  "amount": 320000,
+  "paidAmount": 96000,
+  "assignedPhotographerIds": [
+   "ph_dream_2",
+   "ph_dream_1",
+   "ph_dream_3"
+  ],
+  "eventId": "ev_dream_2",
+  "notes": [
+   {
+    "id": "bn_dream_1_1",
+    "authorName": "Kabir Anand",
+    "text": "30% advance received. Final shot list pending.",
+    "createdAt": "2026-09-13T11:00:00.000Z"
+   }
+  ],
+  "source": "website",
+  "createdAt": "2026-09-12T14:00:00.000Z",
+  "updatedAt": "2026-09-15T12:00:00.000Z"
+ },
+ {
+  "id": "bk_dream_2",
+  "tenantId": "t_dream",
+  "reference": "DMS-2026-0002",
+  "clientId": "cl_dream_1",
+  "customer": {
+   "name": "Riya Shah",
+   "email": "riya@dream.demo",
+   "phone": "+91 98330 12121"
+  },
+  "serviceId": "svc_dream_pre-wedding",
+  "packageId": "pkg_dream_lovestory",
+  "eventDate": "2026-11-03",
+  "location": "Marine Drive & Bandra Bandstand",
+  "guestCount": 2,
+  "requirements": "",
+  "status": "completed",
+  "paymentStatus": "paid",
+  "amount": 48000,
+  "paidAmount": 48000,
+  "assignedPhotographerIds": [
+   "ph_dream_1",
+   "ph_dream_2"
+  ],
+  "eventId": "ev_dream_1",
+  "notes": [],
+  "source": "website",
+  "createdAt": "2026-10-07T14:00:00.000Z",
+  "updatedAt": "2026-10-10T12:00:00.000Z"
+ },
+ {
+  "id": "bk_dream_3",
+  "tenantId": "t_dream",
+  "reference": "DMS-2026-0003",
+  "clientId": "cl_dream_2",
+  "customer": {
+   "name": "Sameer Khanna",
+   "email": "sameer.khanna@example.com",
+   "phone": "+91 98330 12122"
+  },
+  "serviceId": "svc_dream_birthday",
+  "packageId": "pkg_dream_little",
+  "eventDate": "2026-10-28",
+  "location": "Powai Clubhouse",
+  "guestCount": 40,
+  "requirements": "",
+  "status": "completed",
+  "paymentStatus": "paid",
+  "amount": 18000,
+  "paidAmount": 18000,
+  "assignedPhotographerIds": [
+   "ph_dream_1"
+  ],
+  "eventId": "ev_dream_3",
+  "notes": [],
+  "source": "website",
+  "createdAt": "2026-10-12T14:00:00.000Z",
+  "updatedAt": "2026-10-15T12:00:00.000Z"
+ },
+ {
+  "id": "bk_dream_4",
+  "tenantId": "t_dream",
+  "reference": "DMS-2026-0004",
+  "clientId": "cl_dream_3",
+  "customer": {
+   "name": "Pooja Iyer",
+   "email": "pooja.iyer@example.com",
+   "phone": "+91 98330 12123"
+  },
+  "serviceId": "svc_dream_engagement",
+  "packageId": null,
+  "eventDate": "2026-12-26",
+  "location": "Thane",
+  "guestCount": 80,
+  "requirements": "",
+  "status": "pending",
+  "paymentStatus": "unpaid",
+  "amount": 40000,
+  "paidAmount": 0,
+  "assignedPhotographerIds": [],
+  "eventId": null,
+  "notes": [],
+  "source": "website",
+  "createdAt": "2026-11-02T14:00:00.000Z",
+  "updatedAt": "2026-11-05T12:00:00.000Z"
+ },
+ {
+  "id": "bk_dream_5",
+  "tenantId": "t_dream",
+  "reference": "DMS-2026-0005",
+  "clientId": "cl_dream_4",
+  "customer": {
+   "name": "Mihir Jain",
+   "email": "mihir.jain@example.com",
+   "phone": "+91 98330 12124"
+  },
+  "serviceId": "svc_dream_portrait",
+  "packageId": null,
+  "eventDate": "2026-11-26",
+  "location": "Bandra Studio",
+  "guestCount": 1,
+  "requirements": "",
+  "status": "enquiry",
+  "paymentStatus": "unpaid",
+  "amount": 12000,
+  "paidAmount": 0,
+  "assignedPhotographerIds": [],
+  "eventId": null,
+  "notes": [],
+  "source": "website",
+  "createdAt": "2026-11-05T14:00:00.000Z",
+  "updatedAt": "2026-11-06T12:00:00.000Z"
+ },
+ {
+  "id": "bk_pixel_1",
+  "tenantId": "t_pixel",
+  "reference": "PXP-2026-0001",
+  "clientId": "cl_pixel_1",
+  "customer": {
+   "name": "Aura Cosmetics",
+   "email": "aura@pixel.demo",
+   "phone": "+91 98220 77001"
+  },
+  "serviceId": "svc_pixel_product",
+  "packageId": "pkg_pixel_catalog",
+  "eventDate": "2026-10-25",
+  "location": "Pixel Studio, Koregaon Park",
+  "guestCount": null,
+  "requirements": "",
+  "status": "completed",
+  "paymentStatus": "paid",
+  "amount": 35000,
+  "paidAmount": 35000,
+  "assignedPhotographerIds": [
+   "ph_pixel_1"
+  ],
+  "eventId": "ev_pixel_1",
+  "notes": [],
+  "source": "website",
+  "createdAt": "2026-10-19T14:00:00.000Z",
+  "updatedAt": "2026-10-22T12:00:00.000Z"
+ },
+ {
+  "id": "bk_pixel_2",
+  "tenantId": "t_pixel",
+  "reference": "PXP-2026-0002",
+  "clientId": "cl_pixel_2",
+  "customer": {
+   "name": "Zenith Tech",
+   "email": "hr@zenithtech.in",
+   "phone": "+91 98220 77002"
+  },
+  "serviceId": "svc_pixel_corporate",
+  "packageId": "pkg_pixel_headshots",
+  "eventDate": "2026-11-16",
+  "location": "Zenith Tech Campus, Hinjewadi",
+  "guestCount": 25,
+  "requirements": "",
+  "status": "confirmed",
+  "paymentStatus": "partial",
+  "amount": 15000,
+  "paidAmount": 5000,
+  "assignedPhotographerIds": [
+   "ph_pixel_1"
+  ],
+  "eventId": "ev_pixel_2",
+  "notes": [],
+  "source": "website",
+  "createdAt": "2026-11-03T14:00:00.000Z",
+  "updatedAt": "2026-11-06T12:00:00.000Z"
+ },
+ {
+  "id": "bk_creative_1",
+  "tenantId": "t_creative",
+  "reference": "CLS-2026-0001",
+  "clientId": "cl_creative_1",
+  "customer": {
+   "name": "Chloe Bennett",
+   "email": "chloe.b@example.com",
+   "phone": "+1 512 555 0111"
+  },
+  "serviceId": "svc_creative_fashion",
+  "packageId": "pkg_creative_editorial",
+  "eventDate": "2026-10-17",
+  "location": "Studio, S Congress Ave",
+  "guestCount": null,
+  "requirements": "",
+  "status": "completed",
+  "paymentStatus": "paid",
+  "amount": 890,
+  "paidAmount": 890,
+  "assignedPhotographerIds": [
+   "ph_creative_1"
+  ],
+  "eventId": "ev_creative_1",
+  "notes": [],
+  "source": "website",
+  "createdAt": "2026-09-27T14:00:00.000Z",
+  "updatedAt": "2026-09-30T12:00:00.000Z"
+ },
+ {
+  "id": "bk_creative_2",
+  "tenantId": "t_creative",
+  "reference": "CLS-2026-0002",
+  "clientId": "cl_creative_2",
+  "customer": {
+   "name": "Marcus Reed",
+   "email": "marcus.reed@example.com",
+   "phone": "+1 512 555 0112"
+  },
+  "serviceId": "svc_creative_portrait",
+  "packageId": "pkg_creative_portrait",
+  "eventDate": "2026-11-21",
+  "location": "Zilker Park",
+  "guestCount": null,
+  "requirements": "",
+  "status": "enquiry",
+  "paymentStatus": "unpaid",
+  "amount": 249,
+  "paidAmount": 0,
+  "assignedPhotographerIds": [],
+  "eventId": null,
+  "notes": [],
+  "source": "website",
+  "createdAt": "2026-11-04T14:00:00.000Z",
+  "updatedAt": "2026-11-06T12:00:00.000Z"
+ }
+]

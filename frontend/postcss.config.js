@@ -1,1 +1,1 @@
-// TODO: Add PostCSS configuration from the project Markdown file.
+export default { plugins: { tailwindcss: {}, autoprefixer: {} } };

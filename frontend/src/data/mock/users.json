@@ -1,3 +1,141 @@
-{
-  "_todo": "Replace with mock users from the project Markdown file."
-}
+[
+ {
+  "id": "u_super",
+  "tenantId": null,
+  "role": "super_admin",
+  "name": "Shivam Platform Admin",
+  "email": "super@shivamstudio.app",
+  "phone": "+91 90000 00001",
+  "avatarUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=300&q=70",
+  "status": "active",
+  "password": "Demo@12345"
+ },
+ {
+  "id": "u_admin_royal",
+  "tenantId": "t_royal",
+  "role": "studio_admin",
+  "name": "Rajveer Singh Rathore",
+  "email": "admin@royal.demo",
+  "phone": "+91 98290 11122",
+  "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=70",
+  "status": "active",
+  "password": "Demo@12345"
+ },
+ {
+  "id": "u_ph_royal_1",
+  "tenantId": "t_royal",
+  "role": "photographer",
+  "name": "Aarav Mehta",
+  "email": "aarav@royal.demo",
+  "phone": "+91 98290 22201",
+  "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=70",
+  "status": "active",
+  "password": "Demo@12345",
+  "photographerId": "ph_royal_1"
+ },
+ {
+  "id": "u_ph_royal_2",
+  "tenantId": "t_royal",
+  "role": "photographer",
+  "name": "Simran Kaur",
+  "email": "simran@royal.demo",
+  "phone": "+91 98290 22202",
+  "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=300&q=70",
+  "status": "active",
+  "password": "Demo@12345",
+  "photographerId": "ph_royal_2"
+ },
+ {
+  "id": "u_cl_royal_1",
+  "tenantId": "t_royal",
+  "role": "client",
+  "name": "Meera Kapoor",
+  "email": "meera@royal.demo",
+  "phone": "+91 98110 40011",
+  "avatarUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=300&q=70",
+  "status": "active",
+  "password": "Demo@12345",
+  "clientId": "cl_royal_1"
+ },
+ {
+  "id": "u_cl_royal_2",
+  "tenantId": "t_royal",
+  "role": "client",
+  "name": "Priya Nair",
+  "email": "priya@royal.demo",
+  "phone": "+91 98110 40022",
+  "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=70",
+  "status": "active",
+  "password": "Demo@12345",
+  "clientId": "cl_royal_2"
+ },
+ {
+  "id": "u_admin_dream",
+  "tenantId": "t_dream",
+  "role": "studio_admin",
+  "name": "Kabir Anand",
+  "email": "admin@dream.demo",
+  "phone": "+91 98200 55501",
+  "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=300&q=70",
+  "status": "active",
+  "password": "Demo@12345"
+ },
+ {
+  "id": "u_ph_dream_1",
+  "tenantId": "t_dream",
+  "role": "photographer",
+  "name": "Ananya Desai",
+  "email": "ananya@dream.demo",
+  "phone": "+91 98200 66601",
+  "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=70",
+  "status": "active",
+  "password": "Demo@12345",
+  "photographerId": "ph_dream_1"
+ },
+ {
+  "id": "u_cl_dream_1",
+  "tenantId": "t_dream",
+  "role": "client",
+  "name": "Riya Shah",
+  "email": "riya@dream.demo",
+  "phone": "+91 98330 12121",
+  "avatarUrl": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=300&q=70",
+  "status": "active",
+  "password": "Demo@12345",
+  "clientId": "cl_dream_1"
+ },
+ {
+  "id": "u_admin_pixel",
+  "tenantId": "t_pixel",
+  "role": "studio_admin",
+  "name": "Nikhil Joshi",
+  "email": "admin@pixel.demo",
+  "phone": "+91 98220 33344",
+  "avatarUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&q=70",
+  "status": "active",
+  "password": "Demo@12345"
+ },
+ {
+  "id": "u_cl_pixel_1",
+  "tenantId": "t_pixel",
+  "role": "client",
+  "name": "Aura Cosmetics",
+  "email": "aura@pixel.demo",
+  "phone": "+91 98220 77001",
+  "avatarUrl": "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?auto=format&fit=crop&w=300&q=70",
+  "status": "active",
+  "password": "Demo@12345",
+  "clientId": "cl_pixel_1"
+ },
+ {
+  "id": "u_admin_creative",
+  "tenantId": "t_creative",
+  "role": "studio_admin",
+  "name": "Jordan Lee",
+  "email": "admin@creative.demo",
+  "phone": "+1 512 555 0142",
+  "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=70",
+  "status": "active",
+  "password": "Demo@12345"
+ }
+]

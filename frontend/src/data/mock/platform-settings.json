@@ -1,3 +1,10 @@
 {
-  "_todo": "Replace with mock platform settings from the project Markdown file."
+ "platformName": "shivamStudio",
+ "supportEmail": "support@shivamstudio.app",
+ "baseDomain": "shivamstudio.app",
+ "defaultPlanId": "plan_starter",
+ "trialDays": 14,
+ "allowSelfSignup": false,
+ "maintenanceMode": false,
+ "defaultDeliveryTargetHours": 24
 }
